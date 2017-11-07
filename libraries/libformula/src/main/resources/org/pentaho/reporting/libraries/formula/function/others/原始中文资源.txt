@@ -1,0 +1,11 @@
+#display-name=SLEEP
+#description=使当前执行的线程为指定的毫秒数休眠（暂时停止执行）.
+#parameter.0.display-name=Number
+#parameter.0.description=睡眠的毫秒数（仅正数).
+
+display-name=REGEX
+description=在字符串上执行正则表达式，返回第一个已找到的组。
+parameter.0.display-name=Regular Expression
+parameter.0.description=一个java正则表达式的字符串，用字符串中定义的分组。
+parameter.1.display-name=String Input
+parameter.1.description=解析字符串。
